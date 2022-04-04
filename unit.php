@@ -13,9 +13,9 @@
 
     <div class="navigasi">
         <ul>
-            <a href="index.html">HOME</a>
-            <a href="biodata.html">BIODATA</a>
-            <a href="unit.html">UNIT</a>
+            <a href="index.php">HOME</a>
+            <a href="biodata.php">BIODATA</a>
+            <a href="unit.php">UNIT</a>
             
         </ul>
 </div>
